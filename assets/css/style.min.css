@@ -1627,7 +1627,7 @@ a:hover {
 .banner.v2 .profile-img img,
 .banner.v3 .profile-img img {
     width: 100%;
-    border-radius: 500px
+    border-radius: 10px
 }
 
 .banner.v1,
